@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🌱 I’m currently learning DSA with JAVA    
--🔭 I’m currently working on Fruit Sclice web game
+- 🔭 I’m currently working on: Fruit Sclice Web app.   
+- 🌱 I’m currently learning: Web devlopment(MERN).  
+- 👯 I’m looking to collaborate on: JAVA projects.  
+- 💬 Ask me about: JAVA, DSA, HTML, CSS, JavaScript.   
