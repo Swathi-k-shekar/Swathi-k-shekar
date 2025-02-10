@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on: Fruit Sclice Web app.   
-- 🌱 I’m currently learning: Web devlopment(MERN).  
-- 👯 I’m looking to collaborate on: JAVA projects.  
-- 💬 Ask me about: JAVA, DSA, HTML, CSS, JavaScript.   
+- 🔭 I’m currently working on: Website Testing Automation.   
+- 🌱 I’m currently learning: Selenium, Web devlopment(MERN).  
+- 👯 I’m looking to collaborate on: JAVA projects, Webdevlopment and Test Automation Projects.  
+- 💬 Ask me about: Selenium, JAVA, DSA, HTML, CSS, JavaScript.   
