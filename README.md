@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on: Website Testing Automation.   
-- 🌱 I’m currently learning: Selenium, Web devlopment(MERN).  
-- 👯 I’m looking to collaborate on: JAVA projects, Webdevlopment and Test Automation Projects.  
-- 💬 Ask me about: Selenium, JAVA, DSA, HTML, CSS, JavaScript.   
+- 🌱 I’m currently learning: SDET Level Skills.  
+- 👯 I’m looking to collaborate on: JAVA projects, AI related Exploration and Test Automation Projects.  
+- 💬 Ask me about: Playwright, JAVA, JavaScript, GitActions, Test Strategy.   
